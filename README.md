@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Edison Ferreira 👨🏻‍🔬
 
-<!--
-**ferreira-edison/ferreira-edison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physicist | Data Science & Engineering**
+📍 Bogotá, Colombia · 🌍 English · Español · Deutsch
 
-Here are some ideas to get you started:
+I think like a physicist: break a problem down to first principles, build a model, test it against the data, and question the result. I apply that way of thinking to data science, data engineering and software, where clear models and clean code matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** Python, C++, SQL, MATLAB
+- **Focus areas:** data analysis, scientific computing, numerical simulation
+- **Tools:** Git, GitHub
+
+## 🚀 What I'm working on
+
+- Data and simulation projects built from first principles (coming soon to this profile)
+- Deepening my Python, SQL and data engineering skills
+
+## 📫 Get in touch
+
+- Email: edisonferreira2718@gmail.com
+
+*Open to data science, data engineering and scientific computing opportunities.*
