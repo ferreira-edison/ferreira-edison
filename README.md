@@ -3,7 +3,7 @@
 **Physicist | Data Science & Engineering**
 📍 Bogotá, Colombia · 🌍 English · Español · Deutsch
 
-I think like a physicist: break a problem down to first principles, build a model, test it against the data, and question the result. I apply that way of thinking to data science, data engineering and software, where clear models and clean code matter.
+I think like a physicist: break a problem down to first principles, build a model, test it against the data, and question the result. I apply that way of thinking to data science, data engineering and software, where clear models, clean code and results matter.
 
 ## 🛠️ Skills
 
